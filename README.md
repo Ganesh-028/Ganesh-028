@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:02daed,50:5072ed,100:0a0a23&height=260&section=header&text=Yalla%20Siva%20Sai%20Vishnu%20Ganesh&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A8%20Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Data%20Engineer&descSize=18&descAlignY=60&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:02daed,50:5072ed,100:0a0a23&height=260&section=header&text=Ganesh&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A8%20Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Data%20Engineer&descSize=18&descAlignY=60&animation=twinkling"
     width="100%"
     alt="Ganesh"
   />
